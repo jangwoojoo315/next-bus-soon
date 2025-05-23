@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "버스곧도착",
+  "version": "1.0",
+  "description": "버스 도착시간을 알려주는 확장 프로그램",
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "permissions": []
+}
